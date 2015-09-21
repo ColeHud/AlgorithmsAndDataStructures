@@ -26,5 +26,4 @@ public class BadStackOfStrings
 		s[N] = null;
 		return item;
 	}
-
 }
